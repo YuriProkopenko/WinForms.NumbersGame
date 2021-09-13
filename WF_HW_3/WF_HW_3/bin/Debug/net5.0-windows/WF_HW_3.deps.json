@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WF_HW_3/1.0.0": {
+        "runtime": {
+          "WF_HW_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WF_HW_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
